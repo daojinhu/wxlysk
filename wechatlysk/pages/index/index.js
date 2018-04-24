@@ -50,5 +50,14 @@ Page({
       userInfo: e.detail.userInfo,
       hasUserInfo: true
     })
-  }
+  },
+  bindMottoTap: function() {
+    // this.setData({
+    //   motto: "Hello 哈哈"
+    // })
+    wx.navigateTo({
+      url: '../login/login',
+    })
+  },
+
 })

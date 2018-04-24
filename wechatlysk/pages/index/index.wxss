@@ -18,4 +18,12 @@
 
 .usermotto {
   margin-top: 200px;
+  text-align: center;
+}
+
+/* 点击按钮跳转到登录界面 */
+.userMottoBtn{
+  width: 200px;
+  height: 50px;
+  margin-top: 10px;
 }
