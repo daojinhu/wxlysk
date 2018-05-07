@@ -81,7 +81,8 @@ page{
  .lab label {
   /* margin: 0px 50px 0px 15px; */
   color: #666;
+  font-size: 12px;
 } 
 .lab-right {
-  margin-left: 120px;
+  margin-left: 150px;
 }
